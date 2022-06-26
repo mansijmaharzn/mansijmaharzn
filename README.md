@@ -36,10 +36,6 @@
 <br />
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mansijmaharzn)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansijmaharzn&layout=compact)
----
 [twitter]: https://twitter.com/mansij_maharzn
 [youtube]: https://www.youtube.com/channel/UCopdm5ifwf_PIErlwu5aL4g
 [instagram]: https://instagram.com/mansij.maharzn
