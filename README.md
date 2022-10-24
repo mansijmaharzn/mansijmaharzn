@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="mansijmaharzn | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mansijmaharzn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mansijmaharzn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mansijmaharzn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mansijmaharzn | YouTube" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" />][youtube]
+[<img align="left" alt="mansijmaharzn | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" />][twitter]
+[<img align="left" alt="mansijmaharzn | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" />][linkedin]
+[<img align="left" alt="mansijmaharzn | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" />][instagram]
 
 <br />
 
