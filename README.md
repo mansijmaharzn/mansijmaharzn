@@ -14,7 +14,7 @@
 [<img align="left" alt="mansijmaharzn | YouTube" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" />][youtube]
 [<img align="left" alt="mansijmaharzn | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" />][twitter]
 [<img align="left" alt="mansijmaharzn | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" />][linkedin]
-[<img align="left" alt="mansijmaharzn | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" />][instagram]
+[<img align="left" alt="mansijmaharzn | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />][instagram]
 
 <br />
 
