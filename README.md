@@ -32,7 +32,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios/344/github--v1.png" />
+<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/color/344/github--v1.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/dhanishgajjar/terminal-icons/raw/master/png/citylights.png" />
 
 <br />
