@@ -39,4 +39,4 @@
 [twitter]: https://twitter.com/mansij_maharzn
 [youtube]: https://www.youtube.com/channel/UCopdm5ifwf_PIErlwu5aL4g
 [instagram]: https://instagram.com/mansij.maharzn
-[linkedin]: https://www.linkedin.com/in/mansij-maharzn-90a963238
+[linkedin]: https://www.linkedin.com/in/mansij-maharjan-90a963238/
